@@ -1,0 +1,5 @@
+{
+  "name": "LuxeFit Virtual Try-On",
+  "description": "Experience virtual fashion with AI. Upload a photo of yourself and a garment to see how it fits instantly.",
+  "requestFramePermissions": []
+}
